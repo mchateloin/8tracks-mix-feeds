@@ -26,11 +26,11 @@ The 8tracks username you want to pull mixes from. Mine is chateloinus. Follow me
 
 ## type
 
-This can either be �created�, �liked�, or �mix_feed.� I was outputting mixes that I�ve liked with the shortcode I used earlier. With, �created,� you can output mixes that you�ve created yourself, and with �mix_feed� you can output mixes that appear on your 8tracks dashboard.
+This can either be 'created', 'liked', or 'mix_feed.' I was outputting mixes that I've liked with the shortcode I used earlier. With, 'created,' you can output mixes that you've created yourself, and with 'mix_feed' you can output mixes that appear on your 8tracks dashboard.
 
 ## items
 
-The number of mixes you�ll be pulling. The maximum is 50 and the default is 5.
+The number of mixes you'll be pulling. The maximum is 50 and the default is 5.
 
 ## item_size
 
@@ -38,7 +38,7 @@ The width and height of each mix cover image in pixels. The maximum is 250px and
 
 ## items_per_row
 
-You can control how many mixes you have in each row and achieve a grid like feed like I did before or�
+You can control how many mixes you have in each row and achieve a grid like feed like I did before or'
 
 Try vertical orientation:
 
@@ -52,7 +52,7 @@ The default is 5 and the maximum is 50.
 
 ## mix_label_size =
 
-This is the font size of the headings that appear when you hover over a mix. Depending on the size of each mix, you�re going to want to change this so that they fit. Don�t forget to specify your units of measurement, whether it�s in px, em, or %. The default is 30px.
+This is the font size of the headings that appear when you hover over a mix. Depending on the size of each mix, you're going to want to change this so that they fit. Don't forget to specify your units of measurement, whether it's in px, em, or %. The default is 30px.
 
 # Installation
 
