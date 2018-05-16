@@ -2,7 +2,7 @@
 
 Displays feeds of liked, created or dashboard mixes from a user's 8tracks profile.
 
-#Description
+# Description
 
 This plugin displays feeds of mixes from an 8tracks profile. Feeds will show a mix cover images and mix titles on hover. Currently available feeds are:
 
