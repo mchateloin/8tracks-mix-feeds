@@ -50,7 +50,7 @@ Or horizontal orientation (set items and items_per_row to the same value):
 
 The default is 5 and the maximum is 50.
 
-## mix_label_size =
+## mix_label_size
 
 This is the font size of the headings that appear when you hover over a mix. Depending on the size of each mix, you're going to want to change this so that they fit. Don't forget to specify your units of measurement, whether it's in px, em, or %. The default is 30px.
 
